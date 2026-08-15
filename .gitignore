@@ -1,0 +1,20 @@
+# Visual Studio / IDE
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Unreal Engine Build Artifacts
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+.system_generated/
+
+# Node / Scratch
+node_modules/
+*.log
